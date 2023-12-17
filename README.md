@@ -1,7 +1,5 @@
-<div align="center">
-  <img height="200" src="https://ibb.co/NWxZ3xs"  />
-</div>
 
+<img align="center" alt="Coding" width="100%" src="https://i.ibb.co/GC7cJ70/github-header-image-1.png" >
 
 
 <h1 align="center">Hi 👋, I'm Hannan Ahmed</h1>
