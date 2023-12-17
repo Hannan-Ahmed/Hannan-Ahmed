@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hannanahmed&label=Profile%20views&color=0e75b6&style=flat" alt="hannanahmed" /> </p>
 
-- 🔭 I’m currently working on **SellCode**
+- 🔭 I’m currently working on **MERN Stack and Next js**
 
 - 🌱 I’m currently learning **Next.js, Nest.js, Jest, AWS**
 
