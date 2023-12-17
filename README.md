@@ -1,6 +1,5 @@
-<a href="https://your-link.com/">
-  <img src="[https://example.com/your-image.png](https://media.istockphoto.com/id/535695503/photo/pakistan-monument-islamabad.jpg?s=612x612&w=0&k=20&c=bNqjdf8L-5igcRB89DdMgx0kNOmyeo1J_zzXmoxxl8w=)" alt="Your Banner" width="100%">
-</a>
+
+
 <h1 align="center">Hi 👋, I'm Hannan Ahmed</h1>
 <h3 align="center">Junior MERN Stack Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif" >
