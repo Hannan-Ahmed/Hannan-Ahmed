@@ -4,7 +4,15 @@
 
 
 ## 🚀 About Me
-I'm an experienced MERN stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.Beside having experties in web,I am also gaining excellencies in DevOps.Capable of working in a team as well as individually makes me rare from the others.
+👋 Hello there! I'm a Junior MERN stack developer passionate about crafting robust web applications. I've been honing my skills by actively engaging in projects, consistently seeking opportunities to learn and adapt to the ever-evolving tech landscape.
+
+🚀 Leveraging the power of MERN (MongoDB, Express.js, React, Node.js), I've immersed myself in building dynamic and user-centric applications. Beyond these technologies, I'm enthusiastic about exploring and integrating new stacks to enhance my development toolkit.
+
+📚 Continual learning is at the core of my journey. I am dedicated to staying abreast of the latest advancements in web development, embracing emerging tools and frameworks, and ensuring my skill set remains up-to-date.
+
+💡 Passionate about problem-solving and innovation, I thrive in collaborative environments where creativity meets functionality. I am eager to contribute my skills and grow alongside talented teams while creating impactful solutions.
+
+🌟 Let's connect and explore the ever-evolving world of web development together!
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cl9q9ym5y6xcygfgp83arcz5vgar1yf3iq6p13no&rid=giphy.gif&ct=g" width="400" />
 </div>
